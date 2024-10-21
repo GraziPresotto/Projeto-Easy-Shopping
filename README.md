@@ -8,9 +8,5 @@ O projeto se trata da compra de itens, com facilidade e segurança sem sair de c
 HTML e CSS
 <br>
 <br>
-
-
 <img src="https://github.com/GraziPresotto/Projeto-Easy-Shopping/blob/main/imagem/easy%20shopping%20mobile.PNG?raw=true">
-
-
 <img src="https://github.com/GraziPresotto/Projeto-Easy-Shopping/blob/main/imagem/easy%20shopping%20desktop.PNG?raw=true">
